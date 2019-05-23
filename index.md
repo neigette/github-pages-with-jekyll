@@ -1,3 +1,5 @@
-# Welcome to my blog
+Portfolio
 
-I'm glad you are here. I plan to talk about ...
+Welcome! Below are links to my portfolio
+Static viz: __
+Interactive viz: 
